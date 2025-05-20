@@ -5,3 +5,5 @@
 * Ultron
 * Green Goblin
 * Magneto
+* Doctor Doom
+* Venom
